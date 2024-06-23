@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Title": "Sample Record 1",
+    "Description": "Description for Sample Record 1",
+    "Date": "2024-07-01T00:00:00",
+    "Category": "Sample Category ",
+    "UserId": 1
+  },
+  {
+    "Id": 2,
+    "Title": "Sample Record 2",
+    "Description": "Description for Sample Record 2",
+    "Date": "2024-07-02T00:00:00",
+    "Category": "Sample Category 2",
+    "UserId": 1
+  }
+]
